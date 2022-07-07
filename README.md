@@ -1,2 +1,6 @@
-# A-generalization-of-task-KöMaL-S.127.
-https://www.komal.hu/feladat?a=feladat&f=S127&l=hu
+## (Mathematical and Physical Journal for High Schools, Problem S.141.)
+See details here: https://www.komal.hu/feladat?a=feladat&f=S127&l=hu
+
+This solution is a generalization of task KöMaL S.127.
+
+This program can be run in C++.
